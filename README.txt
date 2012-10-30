@@ -24,3 +24,15 @@ Currently supported probes:
   zeocache -- Get ZEO client cache statistics
   zeostatus -- Get ZEO client status information
 
+Once the instance is running zc.monitor thread listen to another port (127.0.0.1:8888 in this buildout). You can query values using
+simple python script or nc.
+
+Example:
+
+  echo 'uptime' | nc -i 1 localhost 8888
+
+
+TODO
+====
+
+ - write simple zc.monitor client
