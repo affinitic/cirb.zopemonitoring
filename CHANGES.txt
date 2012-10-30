@@ -1,0 +1,7 @@
+Changelog
+=========
+
+0.1-dev (unreleased)
+--------------------
+
+- Add dependency on zc.monitor, zc.z3monitor, zc.monitorcache, zc.monitorlogstats, ztfy.monitor
