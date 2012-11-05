@@ -33,6 +33,7 @@ setup(name='cirb.zopemonitoring',
       install_requires=[
           'setuptools',
           'Zope2',
+          'five.z2monitor',
           'Products.ZNagios',
           'munin.zope',
           'zc.z3monitor',
