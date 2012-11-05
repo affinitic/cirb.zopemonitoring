@@ -7,9 +7,6 @@
     <include package="ztfy.monitor" />
     <include package="zc.monitorcache"/>
     <include package="zc.monitorlogstats"/>
-
-    <subscriber
-      for="zope.processlifetime.IDatabaseOpenedWithRoot"
-      handler=".initialize"/>
+    <include package="five.z2monitor"/>
 
 </configure>
