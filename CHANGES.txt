@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.1-dev (unreleased)
---------------------
+0.1 (2012-12-19)
+----------------
 
-- Add dependency on zc.monitor, zc.z3monitor, zc.monitorcache, zc.monitorlogstats, ztfy.monitor
+- Add dependency on zc.monitor, zc.z3monitor, zc.monitorcache, zc.monitorlogstats, ztfy.monitor, five.z2monitor
