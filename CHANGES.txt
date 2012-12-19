@@ -6,6 +6,8 @@ Changelog
 
 - Use rst and not txt for the readme
 
+- Define MANIFEST. Fix release
+
 
 0.1 (2012-12-19)
 ----------------
