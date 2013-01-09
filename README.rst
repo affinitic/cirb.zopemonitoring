@@ -3,6 +3,9 @@
 Introduction
 ============
 
+See the doc of http://pypi.python.org/pypi/five.z2monitor
+
+
 Use zc.monitor and additional plugins to fetch probes via another thread than the one defined in Zope.
 
 Currently supported probes:
